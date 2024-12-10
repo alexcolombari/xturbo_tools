@@ -12,6 +12,5 @@ Tools included:
 - Check DNS answer
 - Check BGP ANS info
 
-Back end by [Alex Colombari](https://github.com/alexcolombari)
-
+Back end by [Alex Colombari](https://github.com/alexcolombari)<br>
 Front end by [Natan Cavarsan](https://github.com/Natan-yoko)

@@ -21,5 +21,5 @@ Examples:<br>
 Back end by [Alex Colombari](https://github.com/alexcolombari)<br>
 Front end by [Natan Cavarsan](https://github.com/Natan-yoko)
 
-GPL-3.0 license
+GPL-3.0 license <br>
 Copyright (c) 2024 Alex Luís Colombari and Natan Cavarsan

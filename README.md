@@ -1,6 +1,6 @@
 # XTurbo Tools
 
-A simples swiss army knife of network tools.
+A simple swiss army knife of network tools.
 Created to help support team of ISP XTurbo troubleshoot network issues.<br>
 The tool runs inside a HTTP server, which uses a Python Library called [pyxterm.js](https://github.com/cs01/pyxtermjs).
 
